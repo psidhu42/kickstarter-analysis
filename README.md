@@ -18,13 +18,13 @@ Properly inputting the formulas was a challenge that arose, as it was not always
 
 Outcomes for crowdfunding projects sorted by launch date show that projects that started in May, June, and July had a higher success rate than those launched in other months. The following line chart provides a good visualization of the outcome. The chart also shows that although a similar number of projects were launched in September, October, and November, the highest number of failed projects occurred in October, despite there being no canceled projects during that month.
 
-![Launch Date Outcomes](file:///C:/Users/Pritpal/Desktop/Bootcamp/Module_1/Crowdfunding_Analysis/Resources/Theater_Outcomes_vs_Launch.png)
+![Launch Date Outcomes](https://github.com/psidhu42/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
 When looking at the data for project outcomes based on the goal, the chart below shows that projects with a goal less than or equal to $5000 had a higher success rate than most projects above that goal.
 
-![Outcomes vs Goals](file:///C:/Users/Pritpal/git/bootcamp/kickstarter-analysis/resources/Outcomes_vs_Goals.png)
+![Outcomes vs Goals](https://github.com/psidhu42/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
 ## Limitations and Recomendations
 
